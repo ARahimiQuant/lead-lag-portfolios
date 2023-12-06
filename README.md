@@ -123,7 +123,8 @@ The structure of this repository is organized as follows:
 ┃ ┗ 📜 portfolio.py
 ┣ 📜 .gitignore
 ┣ 📜 LICENSE
-┗ 📜 README.md
+┣ 📜 README.md
+┗ 📜 requirements.txt
    </pre>
 </div>
 
